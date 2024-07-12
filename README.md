@@ -1,2 +1,2 @@
 # writing-election-functions-
-function that describe Polish election results 
+functions that describe Polish election results 
