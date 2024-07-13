@@ -21,11 +21,11 @@
         >>> `election_statistics`(year = [2015, 2019], jst=’powiat’, jst_number=8, sort=True, stat=‘frekwencja’)
         sorted data frame of 8 counties with highest turnout in 2015 and 2019
 ## Second  function named `election`
-- function returns a data frame showing the average statistics in the n districts with the highest total number of votes cast separately in each province and year
+- ***function returns a data frame showing the average statistics in the n districts with the highest total number of votes cast separately in each province and year***
 - Args:
-         year (list of int): A list of integer values.
-         parties (list of string): A list of string values.
-         count (integer): Integer.
+         + year (list of int): A list of integer values.
+         + parties (list of string): A list of string values.
+         + count (integer): Integer.
 
 - Returns:
         dataframe: Sorted dataframe with counties and statistics.
