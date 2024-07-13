@@ -4,8 +4,8 @@
 # 🔑 Description
 
 ## First function named `election_statistics`
-- ***The function returns a DataFrame with the names of 8 districts (powiaty) which had the lowest voter turnout in the parliamentary elections (wybory do Sejmu) in year n. ***
-- *** The DataFrame also includes the level of voter turnout in those counties for both year n and year m. ***
+- ***The function returns a DataFrame with the names of 8 districts (powiaty) which had the lowest voter turnout in the parliamentary elections (wybory do Sejmu) in year n.***
+- ***The DataFrame also includes the level of voter turnout in those counties for both year n and year m.***
 
 - Args:
      year(list of strings): A list of string values.
