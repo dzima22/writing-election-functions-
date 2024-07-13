@@ -23,9 +23,9 @@
 ## Second  function named `election`
 - ***function returns a data frame showing the average statistics in the n districts with the highest total number of votes cast separately in each province and year***
 - Args:
-         + year (list of int): A list of integer values.
-         + parties (list of string): A list of string values.
-         + count (integer): Integer.
+   + year (list of int): A list of integer values.
+   + parties (list of string): A list of string values.
+   + count (integer): Integer.
 
 - Returns:
         dataframe: Sorted dataframe with counties and statistics.
