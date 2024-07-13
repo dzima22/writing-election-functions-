@@ -8,7 +8,7 @@
 - The DataFrame also includes the level of voter turnout in those counties for both year n and year m.
 
 - Args:
-     -- year(list of strings): A list of string values.
+     year(list of strings): A list of string values.
      jst(string value)= string 'Powiat' albo 'Gmina'
      jst_number(integer_number)= integer 
      sort(Boolean value)=Bool
